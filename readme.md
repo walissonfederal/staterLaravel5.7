@@ -8,4 +8,5 @@
 * configurando o filesystem para public <br>
 * mudado a url para local <br>
 * trocado namespace para laradev <br>
+* acresentando projeto html
 </p>
