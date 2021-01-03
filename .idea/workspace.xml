@@ -11,6 +11,13 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
@@ -125,8 +132,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views/admin/users" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\estudos\project\resources\views\admin\users" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -142,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609543360795</updated>
-      <workItem from="1609543362560" duration="2374000" />
+      <workItem from="1609543362560" duration="72672000" />
     </task>
     <servers />
   </component>
@@ -153,6 +166,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="493" y="243" key="#Composer" timestamp="1609554536841">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="493" y="243" key="#Composer/0.0.1366.728@0.0.1366.728" timestamp="1609554536841" />
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1609543919221">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -173,6 +190,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1609543604867" />
+    <state x="468" y="87" key="NewPhpClassDialog" timestamp="1609558564424">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="468" y="87" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1609558564424" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1609700567413">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1609700567413" />
     <state x="184" y="9" key="SettingsEditor" timestamp="1609543921829">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

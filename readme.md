@@ -10,3 +10,7 @@
 * trocado namespace para laradev <br>
 * acresentando projeto html
 </p>
+<p align="center">
+<a>Versao1.1 com laravel 5.7</a><br>
+* login e validações pronto<br>
+</p>
